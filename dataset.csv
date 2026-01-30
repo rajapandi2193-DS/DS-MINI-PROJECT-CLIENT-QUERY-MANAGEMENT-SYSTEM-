@@ -1,0 +1,2 @@
+query_id,mail_id,mobile_number,query_heading,query_description,status,query_created_time,query_closed_time
+1,test@example.com,9999999999,Sample issue,This is a sample query,Open,2025-09-01 10:00:00,
